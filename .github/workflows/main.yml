@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+
+    strategy:
+      matrix:
+        os: [ ubuntu-latest ]
+        node_version: [ '14' ]
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Semantic Release
+        run: yarn semver
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

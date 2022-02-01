@@ -1,0 +1,15 @@
+{
+  "name": "empty-rel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cervantes007/empty-rel.git",
+  "license": "MIT",
+  "scripts": {
+    "semver": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/git": "^10.0.1",
+    "semantic-release": "^19.0.2"
+  }
+}
