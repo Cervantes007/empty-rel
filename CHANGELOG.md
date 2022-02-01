@@ -1,3 +1,16 @@
+# [2.0.0](https://github.com/Cervantes007/empty-rel/compare/v1.1.0...v2.0.0) (2022-02-01)
+
+
+### Features
+
+* **ToDo:** reimplement ToDo list ([0079b96](https://github.com/Cervantes007/empty-rel/commit/0079b96f4d8c7fdaab13d92819cea8582224f2e6)), closes [#7](https://github.com/Cervantes007/empty-rel/issues/7)
+
+
+### BREAKING CHANGES
+
+* **ToDo:** ToDo List API changes, items prop was replaced for
+todos
+
 # [1.1.0](https://github.com/Cervantes007/empty-rel/compare/v1.0.0...v1.1.0) (2022-02-01)
 
 
