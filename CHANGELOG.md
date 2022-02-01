@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/Cervantes007/empty-rel/compare/v2.0.0...v2.0.1) (2022-02-01)
+
+
+### Bug Fixes
+
+* **ToDo:** not showing all columns ([8269118](https://github.com/Cervantes007/empty-rel/commit/82691182a76fc1a62304f54cd123c77d8cacc2e6)), closes [#9](https://github.com/Cervantes007/empty-rel/issues/9)
+
 # [2.0.0](https://github.com/Cervantes007/empty-rel/compare/v1.1.0...v2.0.0) (2022-02-01)
 
 
