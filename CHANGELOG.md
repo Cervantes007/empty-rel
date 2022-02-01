@@ -1,3 +1,16 @@
+# [2.1.0](https://github.com/Cervantes007/empty-rel/compare/v2.0.1...v2.1.0) (2022-02-01)
+
+
+### Bug Fixes
+
+* **ToDo:** fix ToDo ([a1bcb18](https://github.com/Cervantes007/empty-rel/commit/a1bcb18a093e947233e49caa461bfe641a325aac)), closes [#13](https://github.com/Cervantes007/empty-rel/issues/13)
+
+
+### Features
+
+* **ToDo:** feat 1 ([f61f9bd](https://github.com/Cervantes007/empty-rel/commit/f61f9bddcf1ef688382988a8385f89c87f156d55)), closes [#11](https://github.com/Cervantes007/empty-rel/issues/11)
+* **ToDo:** feat 2 ([d1218de](https://github.com/Cervantes007/empty-rel/commit/d1218de23119e7ff4da9a2830bddf5156af49a61)), closes [#12](https://github.com/Cervantes007/empty-rel/issues/12)
+
 ## [2.0.1](https://github.com/Cervantes007/empty-rel/compare/v2.0.0...v2.0.1) (2022-02-01)
 
 
